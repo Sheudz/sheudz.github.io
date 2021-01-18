@@ -1,9 +1,8 @@
-<!DOSTYPE html>
+
 
 <html>
 <head>
     <meta charset="utf-8">
-    <title>SheudzShop</title>
 </head>
 <body>
 	
